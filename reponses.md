@@ -43,3 +43,8 @@ Le chiffrement asymétrique (à clé publique).
 
 ## Q11 - Exemple d'algorithme asymétrique
 RSA
+
+
+## Q12 - Quel est le but du chiffrement 
+
+Confidentialité 
